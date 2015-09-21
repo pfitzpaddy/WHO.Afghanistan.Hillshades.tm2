@@ -1,0 +1,58 @@
+_prefs: 
+  baselayer: ''
+  saveCenter: false
+_properties: {}
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 69.7755
+  - 35.4802
+  - 10
+description: Mapbox Outdoors inspired Afghani Hillshades for Health Facilities
+format: "png8:m=h:c=128"
+interactivity_layer: ''
+layers: 
+  - contour.line
+  - hillshade
+  - afg_rivers
+  - aeroway
+  - building
+  - tunnel
+  - road
+  - bridge
+  - afg_admin_3_districts
+  - afg_admin_2_provinces
+  - afg_admin_0_countries
+  - afg_admin_1_boundary
+  - water
+  - afg_admin_2_province_labels
+  - afg_admin_1_boundary_labels
+  - country_label_line
+  - country_label
+  - marine_label
+  - state_label
+  - afg_mrrd_district_centers
+  - afg_villages
+  - afg_hpro_health_facilities
+  - afg_north_health_facilities_2012
+  - water_label
+  - poi_label
+  - road_label
+  - waterway_label
+  - housenum_label
+  - contour.label
+maxzoom: 18
+minzoom: 5
+name: WHO Afghanistan Hillshades
+source: "mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v5,fitzpaddy.iqyc766r,fitzpaddy.1d04fgvi,fitzpaddy.85eo2yb9,fitzpaddy.mv3zyqfr,fitzpaddy.am1gu8fr,fitzpaddy.qbrwl8fr,fitzpaddy.v0tchaor,fitzpaddy.wzujif6r,fitzpaddy.yt10dx6r,fitzpaddy.x8j2lnmi,fitzpaddy.760cc8fr,fitzpaddy.b7k138fr"
+styles: 
+  - style.mss
+  - road.mss
+  - label.mss
+  - poi.mss
+  - health.mss
+template: ''
